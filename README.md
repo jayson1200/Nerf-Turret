@@ -12,7 +12,7 @@ The turret uses a RPi 4B, a camera, and the tflite movenet lightning convolution
 
 # Demo
 
-![](./media/turret-demo.mp4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/obs4Nk1-IX8/0.jpg)](https://www.youtube.com/watch?v=obs4Nk1-IX8)
 
 # Schematic
 
